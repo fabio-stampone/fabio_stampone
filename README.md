@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fábio
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
-- 📫 How to reach me @ehofabin on twitter
+- 🌱 I’m currently learning C, PHP, CSS and HTML
+- 📫 How to reach me @fabio_stampone on Instagram
 
 <!---
 JustFabin/JustFabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
