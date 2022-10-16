@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Fábio
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C, PHP, CSS and HTML
-- 📫 How to reach me @fabio_stampone on Instagram
+- 👋 Olá, bem vindo ao meu perfil!
+- 👀 Atualmente uso aqui para guardar códigos que faço na faculdade.
+- 🌱 Futuro arquiteto em Soluções Cloud.
 
 <!---
 JustFabin/JustFabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
